@@ -59,4 +59,101 @@ This analysis is a way to honour that curiosity — to explore whether the shift
 - Price  
 
 **2) Google Trends Search Data**
-- Daily searches for:  
+Daily searches for:
+- "Rhode Skin"
+
+
+---
+
+## 🔧 Methodology
+1. Load + clean product + trend data  
+2. Convert release dates to comparable formats  
+3. Visualize global search interest over time  
+4. Mark launch dates to reveal temporal patterns  
+5. Measure % change in search volume surrounding each drop  
+6. Summarize most influential releases  
+7. Contextualize findings with brand storytelling  
+
+---
+
+## 📊 Key Insights
+
+### 🔹 1) Rhode didn’t simply launch — it erupted
+The June 2022 debut triggered a meteoric jump in search activity — around **1400%**.  
+It was the kind of beginning that brands dream about:  
+a debut that felt less like an introduction and more like a coronation.
+
+---
+
+### 🔹 2) The magic didn’t fade
+Subsequent releases continued to spark noticeable attention.  
+Not as explosive as the first wave — but steady, meaningful, and unmistakably intentional.
+
+This consistency signals:
+- Trust
+- Loyalty
+- Curiosity that still hasn’t burned out
+
+---
+
+### 🔹 3) Interest rises in rhythm with the brand
+Search behavior clusters neatly around launch dates.  
+Rhode releases, and the world looks up.
+
+**Tease → Build → Release → Trend**  
+It’s a predictable dance — and Rhode leads with grace.
+
+---
+
+### 🔹 4) The price narrative holds steady
+Rhode keeps to a premium-accessible space — just high enough to signal quality, but not so high that it feels exclusive. The brand’s minimal aesthetic is supported by minimal price variation.
+
+---
+
+## 📈 Visuals
+- Search trends over time  
+- Product-launch timeline overlay  
+- Pricing distributions  
+- % change bar charts  
+
+These work together to reveal how cultural fascination manifests in measurable ways.
+
+---
+
+## 🏁 Conclusions
+Rhode is not just a skincare brand — it’s a cultural signal.
+
+Its releases ripple across the internet, sending out pulses of curiosity strong enough to register in search data. The debut was explosive; later drops hummed with quieter but still powerful energy. This tells a story not only of excitement, but of **retention** — a sign that Rhode has built not just hype, but trust.
+
+In a landscape crowded with celebrity brands, Rhode stands out because:
+- Its identity is authentic  
+- Its timing is impeccable  
+- Its products deliver  
+- Its innovation feels effortless  
+
+Hailey Bieber has created something both elegant and influential — a brand that knows how to whisper and still be heard everywhere.
+
+This project reflects a small part of that momentum, translated into numbers.
+
+---
+
+## 🔮 Future Paths
+- Compare Rhode against peers (Fenty, Rare, Summer Fridays)  
+- Add sentiment from social platforms (X, TikTok, Reddit)  
+- Study seasonal timing around launches  
+- Explore forecasting for future drops  
+- Incorporate marketing + PR timelines  
+
+---
+
+## 🛠 Tools
+- Python  
+- Pandas  
+- NumPy  
+- Plotly, Matplotlib, Seaborn  
+- PyTrends  
+
+---
+
+## 📦 Repository
+
