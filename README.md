@@ -155,5 +155,3 @@ This project reflects a small part of that momentum, translated into numbers.
 
 ---
 
-## 📦 Repository
-
